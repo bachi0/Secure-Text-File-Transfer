@@ -18,7 +18,7 @@ An analogy that uses colors instead of very big numbers to demonstrate the notio
 * To return to the analogy of a real-life trade using huge numbers rather than colors, this determination is computationally costly. Even with today's supercomputers, it is difficult to calculate in a reasonable period of time.
 
 
-### Pre-requistics
+### Pre-requisites 
 ```
 
 python-flask
